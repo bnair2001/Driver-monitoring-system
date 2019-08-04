@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/build-types/debug/shaders"/></dataSet></merger>

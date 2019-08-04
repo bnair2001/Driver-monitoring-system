@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:18:1-46:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/administrator/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.13.1.aar/d6c596729253c1e2312bab667da622a0/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:19:5-34
+	xmlns:android
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:23:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:24:22-78
+uses-sdk
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:26:5-28:41
+	android:targetSdkVersion
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:28:9-38
+	android:minSdkVersion
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:27:9-35
+application
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:30:5-44:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/administrator/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.13.1.aar/d6c596729253c1e2312bab667da622a0/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/administrator/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.13.1.aar/d6c596729253c1e2312bab667da622a0/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:32:9-41
+	android:debuggable
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:31:9-34
+	android:icon
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:30:18-44
+	android:theme
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:34:9-45
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:36:9-43:20
+	android:screenOrientation
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:37:19-55
+	android:label
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:38:19-71
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:36:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:41:27-74
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:18:1-46:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/AndroidManifest.xml:18:1-46:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,13 @@
+#Fri Mar 22 13:13:48 IST 2019
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/29
+base.2=/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/28
+base.1=/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/31
+base.0=/Users/administrator/Desktop/tensorflow-for-poets-2-master/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/30
