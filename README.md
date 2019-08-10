@@ -29,13 +29,20 @@ The repo is divides into 3 files:
  ![image 2](https://i.imgur.com/OrfbI4H.png)
  
 ### Installation:
- 
+* First install openCv manager for android by using this [link](https://apkpure.com/opencv-manager/org.opencv.engine/download?from=details).
+* Next open the folder of the app you wish to use via android studio and you are good to go.
+
+### Important note:
+Th three apps are now seperate apps, if you would like to contribute plases help by combining the three into one.
+
 ### Credits:
 [Bharath Nair](https://github.com/bnair2001), <br />
 [Steve Paul](https://github.com/ST2-EV)
  
 ### References: 
- 
+ [tensorflow for poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)<br />
+ [OpenCV  for android](https://github.com/floe/opencv-android/tree/master/manager)<br />
+ [The ML model for the tfmobile app](https://github.com/RenatoBMLR/state-farm-distracted-driver-detection)<br />
  
  
  
